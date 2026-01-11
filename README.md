@@ -81,12 +81,7 @@ Feel free to:
 - Add improvements
 - Share with learners
 
----
-
-## ⭐ Support
-If this repository helps you:
-- Give it a ⭐ on GitHub
-- Share it with others learning Python
 
 Happy Coding 🐍🚀
+
 
